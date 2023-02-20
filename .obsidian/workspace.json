@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Protocol/HTTP(S).md",
+                "file": "2023-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Protocol/HTTP(S).md",
+                "file": "2023-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Protocol/HTTP(S).md",
+                "file": "2023-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Protocol/HTTP(S).md"
+                "file": "2023-02-20.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "9f4dd2f964e469af",
   "lastOpenFiles": [
+    "Courses/Protocol/HTTP(S).md",
     "Courses/Protocol/DNS.md",
     "Sources/Pictures/Protocol/Domain-Hierarchy.png",
     "Sources/Pictures/Protocol/DNS-protocol.png",
@@ -156,7 +157,6 @@
     "Courses/Fundamentals/Virtual Private Network - VPN.md",
     "Courses/Fundamentals/Thee-way handshake.md",
     "Courses/Fundamentals/Ports.md",
-    "Courses/Fundamentals/Packets and Frames.md",
-    "Courses/Fundamentals/OSI Model.md"
+    "Courses/Fundamentals/Packets and Frames.md"
   ]
 }

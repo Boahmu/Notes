@@ -74,17 +74,17 @@ To breakdown each line of the response:
 ## HTTP Methods
 HTTP methods are a way for the client to show their intended action when making an HTTP request. There are a lot of HTTP methods but we'll cover the most common ones, although mostly you'll deal with the GET and POST method.
 
-**GET Request**
-This is used for getting information from a web server.  
+- **GET Request**
+	This is used for getting information from a web server.  
 
-**POST Request**
-This is used for submitting data to the web server and potentially creating new records  
+- **POST Request**
+	This is used for submitting data to the web server and potentially creating new records  
 
-**PUT Request**
-This is used for submitting data to a web server to update information
+- **PUT Request**
+	This is used for submitting data to a web server to update information
 
-**DELETE Request**  
-This is used for deleting information/records from a web server.
+- **DELETE Request**  
+	This is used for deleting information/records from a web server.
 
 ## HTTP Status Codes
 In the previous task, you learnt that when a HTTP server responds, the first line always contains a status code informing the client of the outcome of their request and also potentially how to handle it. These status codes can be broken down into 5 different ranges:
