@@ -1,30 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-folder:Fundamental",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "section:(Courses)",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.68229166666667,
+  "lineSizeMultiplier": 0.559375,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.510416666666667,
+  "repelStrength": 9.0625,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 236,
   "scale": 0.7132754626224428,
-  "close": true
+  "close": false
 }
